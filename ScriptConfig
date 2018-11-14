@@ -1,4 +1,1 @@
-<hierarchy rotation="0">
-	<node text="朋友圈商品" resource-id="content" />
-    </node>
-</hierarchy>
+<hierarchy rotation="0"><node text="朋友圈商品" resource-id="content" /></node></hierarchy>
